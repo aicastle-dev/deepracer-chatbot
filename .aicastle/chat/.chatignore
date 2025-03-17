@@ -1,0 +1,9 @@
+__pycache__/
+__aicastlecache__/
+.aicastle/
+.devcontainer/
+*.ipynb
+
+app.py
+requirements.txt
+.gitignore
